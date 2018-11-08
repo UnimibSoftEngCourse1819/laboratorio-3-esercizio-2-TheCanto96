@@ -1,0 +1,24 @@
+2018-11-08 10:28:58,320 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2018-11-08 10:29:13,118 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vogella.bould.maven.simple:com.vogella.bould.maven.simple:0.0.1-SNAPSHOT @ /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/pom.xml.
+2018-11-08 10:29:13,542 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-08 10:29:13,549 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/src/main/resources
+2018-11-08 10:29:13,551 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-08 10:29:13,552 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/src/test/resources
+2018-11-08 10:29:13,561 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.vogella.bould.maven.simple/src
+2018-11-08 10:29:13,562 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /com.vogella.bould.maven.simple/src/test/java because it overlaps with /com.vogella.bould.maven.simple/src
+2018-11-08 10:29:13,652 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-11-08 10:29:14,140 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vogella.bould.maven.simple:com.vogella.bould.maven.simple:0.0.1-SNAPSHOT @ /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/pom.xml.
+2018-11-08 10:29:14,401 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.vogella.bould.maven.simple/src
+2018-11-08 10:29:14,402 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /com.vogella.bould.maven.simple/src/test/java because it overlaps with /com.vogella.bould.maven.simple/src
+2018-11-08 10:29:14,456 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-11-08 10:29:14,599 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-08 10:29:14,601 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/src/main/resources
+2018-11-08 10:29:14,604 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-08 10:29:14,605 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/src/test/resources
+2018-11-08 10:30:16,700 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-08 10:31:01,121 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple
+2018-11-08 10:31:01,121 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2018-11-08 10:31:18,269 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-08 10:31:18,270 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/src/main/resources
+2018-11-08 10:31:18,271 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-08 10:31:18,271 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Canto/git/lab3_2/com.vogella.bould.maven.simple/src/test/resources
